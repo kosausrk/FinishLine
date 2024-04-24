@@ -2,8 +2,7 @@
 
 FinishLine is a simple turn-based game for two players where the objective is to reach the finish line, which in this case is position 10.
 
-
-
+![FinishLine](FinishLine.png)
 
 ## How to Play
 
